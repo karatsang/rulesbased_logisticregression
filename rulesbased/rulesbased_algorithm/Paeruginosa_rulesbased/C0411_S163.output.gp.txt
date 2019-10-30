@@ -1,0 +1,8 @@
+Meta-model ID / Model ID	Meta-model name / Model name	Category	Confers resistance to
+2292	Streptomyces rishiriensis parY mutant conferring resistance to aminocoumarin	Strict	novobiocin, clorobiocin, coumermycin A1
+1042	Pseudomonas aeruginosa catB7	Perfect	azidamfenicol, chloramphenicol, thiamphenicol
+1928	OXA-50	Strict	ampicillin, cefalotin
+954	APH(3')-IIb	Strict	ribostamycin, butirosin, kanamycin A, gentamicin B, paromomycin
+1222	FosA	Perfect	fosfomycin
+2303	bcr-1	Strict	bicyclomycin
+2655	Pseudomonas aeruginosa emrE	Perfect	gentamicin C

@@ -1,0 +1,103 @@
+Sample	ampicillin	amoxicillin-clavulanic_acid	amikacin	cefazolin	cefalotin	ciprofloxacin	cefixime	ceftazidime	gentamicin_C	meropenem	nitrofurantoin	piperacillin-tazobactam	tetracycline	tobramycin	trimethoprim-sulfamethoxazole	cefoxitin	ceftriaxone	ertapenem
+C0007	R	R	S	R	R	S	R	R	I	S	R	R	R	S	R	R	R	
+C0028	R	R	S	R	R	R	R	S	S	R	R	S	R	S	R	R	R	
+C0029	R	R	S	R	R	S	R	R	S	I	R	R	R	S	R	R	R	
+C0030	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0031	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0042	R	R	S	R	R	S	R	S	S	S	R	S	RA	S	R	R	RA	
+C0043	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0053	S	S	S	R	R	S	R	S	S	S	R	S	R	S	S	S	S	
+C0056	R	R	S	R	R	S	R	S	S	S	R	S	RA	S	R	R	RA	
+C0057	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0060	R	R	S	R	R	R	R	S	R	S	R	S	R	S	R	R	R	
+C0062	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0063	R	R	S	R	R	S	R	R	S	R	R	R	R	S	R	R	R	
+C0070	R	R	S	R	R	S	R	S	S	I	R	S	R	S	R	R	RA	
+C0071	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0072	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0073	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0080	S	S	S	S	S	S	S	S	S	S	R	S	R	S	S	S	S	
+C0089	R	R	S	R	R	R	R	I	I	I	R	S	R	S	R	R	R	
+C0090	R	R	S	R	R	S	R	R	S	S	R	R	R	S	R	R	R	
+C0091	R	R	S	R	R	S	R	R	S	S	R	R	R	S	R	R	R	
+C0098	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0100	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0129	R	R	S	R	R	S	R	S	S		R	S	R	S		R	R	
+C0138	R	R	S	R	R	S	R	S	S		R	S	R	S	R	R	RA	
+C0139	R	R	S	R	R	S	R	S	S	S	R	S	RA	S	R	R	RA	
+C0148	R	R	S	R	R	S	R	S	S	S	R	S	RA	S	R	R	RA	
+C0155	R	R	S	R	R	S	R	I	S	S	R		R	S	R	R	R	
+C0156	R	R	S	R	R	I	R	I	S	S	R	R	R	S	R	R	R	
+C0157	R	RA	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0166	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0167	R	R	S	R	R	I	R	I	S	S	RA	S	R	S	R	R	R	
+C0168	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0176	R	R	S	R	R	S	RA	R	S	S	R	R	R	S	R	R	R	
+C0177	R	R	S	R	R	R	R	I	S	R	R	R	R	S	R	R	R	
+C0178	R	R	S	R	R	S	R	S	S	S	R	S	RA	S	R	R	RA	
+C0179	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0189	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0190	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0200	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0201	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0202	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0203	R	R	S	R	R	S	R	S	S	S	R	S	RA	S	R	R	RA	
+C0204	R	R	S	R	R	S	R	R	S	S	R	R	R	S	R	R	R	
+C0213	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0214	R	R	S	R	R	R	R	S	S	S	R	S	R	S	R	R	RA	
+C0215	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0222	R	R	S	R	R	R	R	S	I	S	R	S	R	S	R	R	RA	
+C0223	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0224	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0225	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0232	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0233	R	R	S	R	R	R	R	S	S	S	R	S	R	S	R	R	RA	
+C0234	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0254	R	R	S	R	R	I	R	S	S	S	R	S	R	S	R	R	RA	
+C0260	R	R	S	R	R	S	R	S	S	S	R	R	R	S	R	R	R	
+C0261	R	R	S	R	R	S	R	S	S	S	R	S	RA	S	R	R	RA	
+C0262	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0263	R	R	S	R	R	S	R	S	S	R	R	S	R	S	R	R	RA	
+C0275	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0276	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0284	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0292	R	R	S	R	R	R	R	R	S	R	R	R	R	S	R	R	R	
+C0294	R	R	S	R	R	I	R	S	S	S	R	S	R	S	R	R	RA	
+C0295	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0305	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0307	R	R	S	R	R	S	R	S	S	S	R	S	R	S	RA	R	RA	
+C0315	R	R	S	R	R	I	R	S	S	S	R	R	R	S	R	R	R	
+C0332	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0333	R	R	S	R	R	S	R	I	I	S	R	S	R	S	R	R	R	
+C0334	R	R	S	R	R	S	R	R	S	R	R	R	R	S	R	R	R	
+C0335	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0345	R	R	S	R	R	I	R	I	S	S	R	R	RA	S	R	R	R	
+C0346	R	R	S	R	R	S	R	S	S	S	R	S	RA	S	R	R	RA	
+C0355	R	R	S	R	R	S	R	S	S	S	R	S	RA	S	R	R	R	
+C0356	R	R	S	R	R	S	R	R	S	S	R	R	R	S	R	R	R	
+C0365	R	R	S	R	R	S	R	I	S	S	R	S	RA	S	R	R	R	
+C0366	R	R	S	R	R	S	R	S	S	I	R	R	R	S	R	R	R	
+C0376	R	R	S	R	R	I	R	S	S	S	R	S	R	S	R	R	RA	
+C0377	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0378	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0379	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0398	R	R	S	R	R	I	R	S	S	S	R	S	R	S	R	R	RA	
+C0399	R	R	S	R	R	R	R	I	S	S	R	R	R	S	R	R	R	
+C0400	R	R	S	R	R	R	R	S	S	S	R	S	R	S	R	R	RA	
+C0401	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	R	
+C0409	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0410	R	R	S	R	R	R	R	S	S	R	R	S	R	S	R	R	R	
+C0411	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0423	R	R	S	R	R	S	R	S	S	S	R	S	R	S	R	R	RA	
+C0445	S	S	S	I	S	S	S	S	S	S	R	S	R	S	R	S	S	
+C0646	R	R	S	R	R	R	R	S	R	I	R	S	R	S	R	R	RA	
+C1430	R	R	I	R		S	R	R	I	R	R	R	RA	S	R	R	R	
+C1432	R	R	S	R		R	R	I	R	R	R	R	R	R	R	R	R	
+C1433	R	R	S	R		I	R	R	S	R	R	R	R	S	R	R	R	
+C1434	R	R	S	R		R	R	R	R	R	R	R	R	R	R	R	R	
+C1437	R	R	S	R		R	R	I	S	R	R	S	R	S	R	R	R	
+C1438	R	R	S	R		S	R	R	S	R	R	R	R	S	R	R	R	
+C1440	R	R	S	R		I	R	I	S	R	R	R	R	S	R	R	R	
+C1442	R	R	S	R		I	R	I	S	R	R	R	R	S	R	R	R	
+C1445	R	R	S	R		R	R	R	S	R	R	R	R	S	R	R	R	
+C1446	R	R	R	R		I	R	S	R	R	R	S	R	I	R	R	R	

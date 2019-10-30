@@ -1,0 +1,23 @@
+Meta-model ID / Model ID	Meta-model name / Model name	Category	Confers resistance to
+1420	aadA5	Perfect	spectinomycin, streptomycin
+900	tet(C)	Strict	tetracycline
+62	CMY-42	Perfect	cefoxitin, ceftazidime
+255	BRP(MBL)	Perfect	bleomycin
+1243	mphA	Perfect	erythromycin, roxithromycin, telithromycin, clarithromycin, azithromycin, dirithromycin, oleandomycin
+355	TEM-1	Perfect	amoxicillin, ampicillin, cefalotin
+2158	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	Strict	pulvomycin
+904	rmtB	Perfect	dibekacin, amikacin, gentamicin C, sisomicin, netilmicin, kanamycin A, tobramycin, isepamicin, G418, arbekacin, gentamicin B
+1191	mdtM	Strict	acriflavin, lincomycin, puromycin, chloramphenicol, norfloxacin
+1106	NDM-5	Perfect	cefoxitin, ceftazidime, ertapenem, piperacillin-tazobactam
+1142	dfrA17	Strict	trimethoprim
+1070	sul1	Perfect	sulfadiazine, sulfadimidine, sulfadoxine, sulfamethoxazole, sulfisoxazole, sulfacetamide, mafenide, sulfasalazine, sulfamethizole
+375	mdtH	Perfect	enoxacin, norfloxacin
+650	aadA	Strict	spectinomycin, streptomycin
+1450	Escherichia coli parC conferring resistance to fluoroquinolone	Strict	enoxacin, ciprofloxacin, levofloxacin, moxifloxacin, gatifloxacin, lomefloxacin, nalidixic acid, norfloxacin, ofloxacin, trovafloxacin, grepafloxacin, sparfloxacin, pefloxacin
+2267	Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	Strict	nitrofurantoin
+2403	Salmonella enterica gyrA conferring resistance to fluoroquinolones	Strict	ciprofloxacin, nalidixic acid
+2424	YojI	Strict	microcin J25
+2423	msbA	Perfect	metronidazole
+37	Escherichia coli mdfA	Strict	tetracycline, benzalkonium chloride, rhodamine
+603	mdtG	Perfect	fosfomycin
+1820	bacA	Perfect	bacitracin A, bacitracin B, bacitracin F

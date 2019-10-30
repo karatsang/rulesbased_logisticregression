@@ -1,0 +1,10 @@
+CORRECT R PREDICTION
+Counter({'cefalotin': 89, 'ampicillin': 85, 'ciprofloxacin': 61, 'tetracycline': 50, 'trimethoprim-sulfamethoxazole': 47, 'ceftazidime': 42, 'gentamicin_C': 23, 'nitrofurantoin': 8, 'piperacillin-tazobactam': 8, 'cefoxitin': 6, 'tobramycin': 3, 'ceftriaxone': 2, 'amoxicillin-clavulanic_acid': 2, 'amikacin': 2, 'ertapenem': 1})
+CORRECT S PREDICTION
+Counter({'meropenem': 111, 'ertapenem': 110, 'amikacin': 93, 'gentamicin_C': 90, 'cefoxitin': 89, 'tobramycin': 88, 'piperacillin-tazobactam': 85, 'amoxicillin-clavulanic_acid': 71, 'cefixime': 66, 'ceftazidime': 66, 'ceftriaxone': 66, 'cefazolin': 60, 'trimethoprim-sulfamethoxazole': 57, 'ampicillin': 3, 'ciprofloxacin': 3, 'cefalotin': 2})
+>>>>>>>>
+OVER PREDICTION
+Counter({'nitrofurantoin': 107, 'tetracycline': 65, 'ciprofloxacin': 51, 'ampicillin': 24, 'cefalotin': 22, 'amikacin': 20, 'piperacillin-tazobactam': 11, 'cefazolin': 1, 'cefoxitin': 1})
+>>>>>>>>
+UNDER PREDICTION
+Counter({'cefazolin': 54, 'cefixime': 49, 'ceftriaxone': 47, 'amoxicillin-clavulanic_acid': 42, 'tobramycin': 24, 'cefoxitin': 19, 'piperacillin-tazobactam': 11, 'trimethoprim-sulfamethoxazole': 11, 'ceftazidime': 7, 'ertapenem': 4, 'meropenem': 4, 'ampicillin': 3, 'gentamicin_C': 2, 'cefalotin': 2})

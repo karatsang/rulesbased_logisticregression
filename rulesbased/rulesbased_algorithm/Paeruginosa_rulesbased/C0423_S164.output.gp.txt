@@ -1,0 +1,10 @@
+Meta-model ID / Model ID	Meta-model name / Model name	Category	Confers resistance to
+1042	Pseudomonas aeruginosa catB7	Perfect	azidamfenicol, chloramphenicol, thiamphenicol
+2158	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	Strict	pulvomycin
+1928	OXA-50	Strict	ampicillin, cefalotin
+2903	CrpP	Strict	ciprofloxacin
+954	APH(3')-IIb	Strict	ribostamycin, butirosin, kanamycin A, gentamicin B, paromomycin
+1830	APH(3'')-Ib	Strict	streptomycin
+1222	FosA	Perfect	fosfomycin
+2303	bcr-1	Strict	bicyclomycin
+2655	Pseudomonas aeruginosa emrE	Perfect	gentamicin C

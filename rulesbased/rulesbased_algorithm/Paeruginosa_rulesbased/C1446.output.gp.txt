@@ -1,0 +1,9 @@
+Meta-model ID / Model ID	Meta-model name / Model name	Category	Confers resistance to
+1928	OXA-50	Perfect	ampicillin, cefalotin
+2903	CrpP	Strict	ciprofloxacin
+954	APH(3')-IIb	Strict	ribostamycin, butirosin, kanamycin A, gentamicin B, paromomycin
+1222	FosA	Strict	fosfomycin
+2196	Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones	Strict	ciprofloxacin, levofloxacin, ofloxacin, sparfloxacin, pefloxacin, sitafloxacin
+2303	bcr-1	Strict	bicyclomycin
+2682	MexAB-OprM with NalC mutations conferring resistance to aztreonam	Partial	ciprofloxacin, tetracycline, ceftazidime, ceftriaxone, meropenem, aztreonam, ampicillin, amoxicillin-clavulanic acid, trimethoprim-sulfamethoxazole
+2655	Pseudomonas aeruginosa emrE	Perfect	gentamicin C

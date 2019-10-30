@@ -1,0 +1,20 @@
+Meta-model ID / Model ID	Meta-model name / Model name	Category	Confers resistance to
+1031	APH(6)-Id	Strict	streptomycin
+952	sul2	Strict	sulfadiazine, sulfadimidine, sulfadoxine, sulfamethoxazole, sulfisoxazole, sulfacetamide, mafenide, sulfasalazine, sulfamethizole
+2158	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	Strict	pulvomycin
+458	tet(B)	Strict	tetracycline
+1138	tet(D)	Perfect	tetracycline
+1142	dfrA17	Strict	trimethoprim
+1830	APH(3'')-Ib	Strict	streptomycin
+375	mdtH	Strict	enoxacin, norfloxacin
+1450	Escherichia coli parC conferring resistance to fluoroquinolone	Strict	enoxacin, ciprofloxacin, levofloxacin, moxifloxacin, gatifloxacin, lomefloxacin, nalidixic acid, norfloxacin, ofloxacin, trovafloxacin, grepafloxacin, sparfloxacin, pefloxacin
+2267	Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	Strict	nitrofurantoin
+2403	Salmonella enterica gyrA conferring resistance to fluoroquinolones	Strict	ciprofloxacin, nalidixic acid
+2373	Escherichia coli UhpT with mutation conferring resistance to fosfomycin	Strict	fosfomycin
+2424	YojI	Strict	microcin J25
+2423	msbA	Strict	metronidazole
+2656	Escherichia coli emrE	Strict	erythromycin
+2744	Escherichia coli AcrAB-TolC with MarR mutations conferring resistance to ciprofloxacin and tetracycline	Partial	ciprofloxacin, tetracycline, ampicillin, cefalotin
+37	Escherichia coli mdfA	Strict	tetracycline, benzalkonium chloride, rhodamine
+603	mdtG	Strict	fosfomycin
+1820	bacA	Perfect	bacitracin A, bacitracin B, bacitracin F

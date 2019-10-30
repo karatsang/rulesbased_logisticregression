@@ -1,0 +1,190 @@
+P-values	ampicillin	amoxicillin-clavulanic_acid	amikacin*	cefazolin	cefalotin	ciprofloxacin	cefixime	ceftazidime	gentamicin_C	meropenem*	nitrofurantoin*	piperacillin-tazobactam	tetracycline	tobramycin	trimethoprim-sulfamethoxazole	cefoxitin	ceftriaxone	ertapenem*
+AcrF	nan	nan	0	0	nan	0	nan	nan	nan	0.044	0.431	nan	nan	nan	nan	nan	nan	0.461
+gadW	nan	nan	0.992	0	nan	0	nan	nan	nan	0.423	0.423	nan	nan	nan	nan	nan	nan	0.713
+Escherichia coli marR mutant conferring antibiotic resistance	nan	nan	0	0	nan	0	nan	nan	nan	0.254	0.171	nan	nan	nan	nan	nan	nan	0.496
+mdtH	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+CARB-20	nan	nan	0.935	0	nan	0	nan	nan	nan	0.695	0.695	nan	nan	nan	nan	nan	nan	0.447
+eptA	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+adeF	nan	nan	0	0	nan	0	nan	nan	nan	0.068	0.287	nan	nan	nan	nan	nan	nan	0.223
+emrR	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+mdtA	nan	nan	0	0	nan	0	nan	nan	nan	0.002	0.019	nan	nan	nan	nan	nan	nan	0.407
+vgaC	nan	nan	0.92	0	nan	0	nan	nan	nan	0.513	0.513	nan	nan	nan	nan	nan	nan	0.202
+Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+baeS	nan	nan	0	0	nan	0	nan	nan	nan	0.002	0.019	nan	nan	nan	nan	nan	nan	0.407
+mdtC	nan	nan	0.938	0	nan	0	nan	nan	nan	0.028	0.028	nan	nan	nan	nan	nan	nan	0.365
+emrK	nan	nan	0.846	0	nan	0	nan	nan	nan	0.738	0.738	nan	nan	nan	nan	nan	nan	0.544
+Escherichia coli emrE	nan	nan	0.91	0	nan	0.99	nan	nan	nan	0.252	0.252	nan	nan	nan	nan	nan	nan	0.753
+Escherichia coli UhpT with mutation conferring resistance to fosfomycin	nan	nan	0.97	0	nan	0	nan	nan	nan	0.676	0.676	nan	nan	nan	nan	nan	nan	0.094
+bacA	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+mdtB	nan	nan	0	0	nan	0	nan	nan	nan	0.002	0.019	nan	nan	nan	nan	nan	nan	0.407
+cpxA	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+TolC	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+evgA	nan	nan	0	0	nan	0	nan	nan	nan	0.77	0.009	nan	nan	nan	nan	nan	nan	0.765
+Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+PmrF	nan	nan	0.887	0	nan	0	nan	nan	nan	0.738	0.738	nan	nan	nan	nan	nan	nan	0.544
+YojI	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+Escherichia coli soxS with mutation conferring antibiotic resistance	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+Escherichia coli parC conferring resistance to fluoroquinolone	nan	nan	0.915	0	nan	0	nan	nan	nan	0.953	0.017	nan	nan	nan	nan	nan	nan	0.609
+Klebsiella pneumoniae acrA	nan	nan	0.921	nan	nan	nan	nan	nan	nan	0.372	0.372	nan	nan	nan	nan	nan	nan	0.256
+Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+emrA	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+evgS	nan	nan	0.97	0	nan	0	nan	nan	nan	0.906	0.008	nan	nan	nan	nan	nan	nan	0.673
+AcrS	nan	nan	0	0	nan	0	nan	nan	nan	0.212	0.014	nan	nan	nan	nan	nan	nan	0.17
+ugd	nan	nan	0.991	0	nan	0	nan	nan	nan	0.902	0	nan	nan	nan	nan	nan	nan	0.712
+mdtO	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+marA	nan	nan	0	0	nan	0	nan	nan	nan	0.327	0	nan	nan	nan	nan	nan	nan	0.199
+Escherichia coli soxR with mutation conferring antibiotic resistance	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+Escherichia coli mdfA	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+H-NS	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+Escherichia coli PtsI with mutation conferring resistance to fosfomycin	nan	nan	0.899	0	nan	0	nan	nan	nan	0.406	0.406	nan	nan	nan	nan	nan	nan	0.08
+mdtN	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+baeR	nan	nan	0	0	nan	0	nan	nan	nan	0.002	0.019	nan	nan	nan	nan	nan	nan	0.407
+AcrE	nan	nan	0	0	nan	0	nan	nan	nan	0.056	0.622	nan	nan	nan	nan	nan	nan	0.307
+emrY	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+mdtG	nan	nan	0.943	0	nan	0	nan	nan	nan	0.691	0.691	nan	nan	nan	nan	nan	nan	0.678
+BUT-1	nan	nan	0	0	nan	0	nan	nan	nan	0.247	0.14	nan	nan	nan	nan	nan	nan	0.046
+Escherichia coli acrR with mutation conferring multidrug antibiotic resistance	nan	nan	0.902	0	nan	0	nan	nan	nan	0.681	0.681	nan	nan	nan	nan	nan	nan	0.742
+kdpE	nan	nan	0.959	0	nan	0	nan	nan	nan	0.814	0.814	nan	nan	nan	nan	nan	nan	0.962
+Salmonella enterica gyrA conferring resistance to fluoroquinolones	nan	nan	0.954	0	nan	0	nan	nan	nan	0.907	0.031	nan	nan	nan	nan	nan	nan	0.922
+gadX	nan	nan	0.927	0	nan	0	nan	nan	nan	0.306	0	nan	nan	nan	nan	nan	nan	0.09
+patA	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+mdtE	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+CRP	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+mdtM	nan	nan	0.987	0	nan	0	nan	nan	nan	0.268	0.268	nan	nan	nan	nan	nan	nan	0.746
+mdtF	nan	nan	0	0	nan	0	nan	nan	nan	0.523	0.188	nan	nan	nan	nan	nan	nan	0.465
+Escherichia coli acrA	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+mdtP	nan	nan	0.914	0	nan	0	nan	nan	nan	0.727	0.727	nan	nan	nan	nan	nan	nan	0.752
+emrB	nan	nan	0	0	nan	0	nan	nan	nan	0.762	0	nan	nan	nan	nan	nan	nan	0.138
+Escherichia coli GlpT with mutation conferring resistance to fosfomycin	nan	nan	0.833	0	nan	0	nan	nan	nan	0.786	0.786	nan	nan	nan	nan	nan	nan	0.062
+acrB	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+msbA	nan	nan	0	0	nan	0	nan	nan	nan	0.079	0.003	nan	nan	nan	nan	nan	nan	0.524
+mphA	nan	nan	0	0	nan	0	nan	nan	nan	0.264	0.073	nan	nan	nan	nan	nan	nan	0.279
+AAC(6')-IIa	nan	nan	0.967	0	nan	0	nan	nan	nan	0.037	0.037	nan	nan	nan	nan	nan	nan	0.097
+catB3	nan	nan	0.946	0	nan	0	nan	nan	nan	0.037	0.037	nan	nan	nan	nan	nan	nan	0.097
+tet(C)	nan	nan	0.941	0	nan	0	nan	nan	nan	0.949	0.008	nan	nan	nan	nan	nan	nan	0.655
+Mrx	nan	nan	0	0	nan	0	nan	nan	nan	0.94	0.446	nan	nan	nan	nan	nan	nan	0.439
+OXA-1	nan	nan	0.968	0	nan	0	nan	nan	nan	0.037	0.037	nan	nan	nan	nan	nan	nan	0.097
+CTX-M-15	nan	nan	0.923	0	nan	0	nan	nan	nan	0.759	0.759	nan	nan	nan	nan	nan	nan	0.262
+AAC(3)-IIb	nan	nan	0.933	0	nan	0	nan	nan	nan	0.444	0.444	nan	nan	nan	nan	nan	nan	0.279
+CARB-19	nan	nan	0	nan	nan	nan	nan	nan	nan	0.946	0.02	nan	nan	nan	nan	nan	nan	0.653
+TEM-1	nan	nan	0.975	0	nan	0	nan	nan	nan	0.078	0.078	nan	nan	nan	nan	nan	nan	0.214
+dfrA17	nan	nan	0.873	0	nan	0	nan	nan	nan	0.68	0.68	nan	nan	nan	nan	nan	nan	0.339
+sul1	nan	nan	0	0	nan	0	nan	nan	nan	0.114	0	nan	nan	nan	nan	nan	nan	0.057
+aadA5	nan	nan	0	0	nan	0	nan	nan	nan	0.202	0.222	nan	nan	nan	nan	nan	nan	0.81
+Escherichia coli gyrA conferring resistance to fluoroquinolones	nan	nan	0.957	0	nan	0	nan	nan	nan	0.364	0.364	nan	nan	nan	nan	nan	nan	0.487
+TEM-192	nan	nan	0.939	0	nan	nan	nan	nan	nan	0.702	0.702	nan	nan	nan	nan	nan	nan	0.356
+sul2	nan	nan	0.947	0	nan	0	nan	nan	nan	0.759	0	nan	nan	nan	nan	nan	nan	0.262
+APH(3'')-Ib	nan	nan	0.983	0	nan	0	nan	nan	nan	0.895	0.895	nan	nan	nan	nan	nan	nan	0.981
+APH(6)-Id	nan	nan	0.968	0	nan	0	nan	nan	nan	0.761	0.03	nan	nan	nan	nan	nan	nan	0.81
+OpmB	nan	nan	0	nan	nan	nan	nan	nan	nan	0	0.002	nan	nan	nan	nan	nan	nan	0.043
+CMY-99	nan	nan	0	nan	nan	nan	nan	nan	nan	0.407	0.097	nan	nan	nan	nan	nan	nan	0.218
+tet(B)	nan	nan	0	0	nan	0	nan	nan	nan	0.609	0.086	nan	nan	nan	nan	nan	nan	0.672
+MexW	nan	nan	0	0	nan	0	nan	nan	nan	0.114	0.402	nan	nan	nan	nan	nan	nan	0.435
+tet(D)	nan	nan	0.99	0	nan	0	nan	nan	nan	0.798	0.798	nan	nan	nan	nan	nan	nan	0.618
+floR	nan	nan	0	nan	nan	nan	nan	nan	nan	0.68	0.344	nan	nan	nan	nan	nan	nan	0.075
+Escherichia coli CyaA with mutation conferring resistance to fosfomycin	nan	nan	0.964	0	nan	0	nan	nan	nan	0.111	0.111	nan	nan	nan	nan	nan	nan	0.64
+tetR	nan	nan	0	0	nan	0	nan	nan	nan	0.605	0.4	nan	nan	nan	nan	nan	nan	0.134
+Salmonella enterica gyrA with mutation conferring resistance to triclosan	nan	nan	0	nan	nan	nan	nan	nan	nan	0.043	0.029	nan	nan	nan	nan	nan	nan	0.309
+IND-5	nan	nan	0	nan	nan	nan	nan	nan	nan	0.043	0.029	nan	nan	nan	nan	nan	nan	0.309
+vanHA	nan	nan	0	0	nan	0	nan	nan	nan	0.211	0.15	nan	nan	nan	nan	nan	nan	0.636
+tetW	nan	nan	0	nan	nan	nan	nan	nan	nan	0.043	0.029	nan	nan	nan	nan	nan	nan	0.309
+CTX-M-3	nan	nan	0	nan	nan	nan	nan	nan	nan	0.043	0.029	nan	nan	nan	nan	nan	nan	0.309
+dfrA15	nan	nan	0	nan	nan	nan	nan	nan	nan	0.953	0.04	nan	nan	nan	nan	nan	nan	0.559
+aadA2	nan	nan	0	nan	nan	nan	nan	nan	nan	0.222	0.073	nan	nan	nan	nan	nan	nan	0.019
+mexN	nan	nan	0	nan	nan	nan	nan	nan	nan	0.006	0.147	nan	nan	nan	nan	nan	nan	0.677
+SAT-2	nan	nan	0	nan	nan	nan	nan	nan	nan	0.013	0	nan	nan	nan	nan	nan	nan	0.16
+TriA	nan	nan	0	nan	nan	nan	nan	nan	nan	0.061	0.077	nan	nan	nan	nan	nan	nan	0.155
+CMY-2	nan	nan	0.973	nan	nan	0	nan	nan	nan	0.002	0.009	nan	nan	nan	nan	nan	nan	0.031
+catI	nan	nan	0.986	0	nan	0	nan	nan	nan	0.359	0	nan	nan	nan	nan	nan	nan	0.059
+QnrB19	nan	nan	0	nan	nan	nan	nan	nan	nan	0.739	0.046	nan	nan	nan	nan	nan	nan	0.36
+ErmB	nan	nan	0.962	0	nan	0	nan	nan	nan	0.798	0.798	nan	nan	nan	nan	nan	nan	0.618
+CTX-M-27	nan	nan	0.989	0	nan	0	nan	nan	nan	0.28	0.28	nan	nan	nan	nan	nan	nan	0.242
+MexI	nan	nan	0	0	nan	0	nan	nan	nan	0.136	0.048	nan	nan	nan	nan	nan	nan	0.389
+Escherichia coli ampC beta-lactamase	nan	nan	0	0	nan	0	nan	nan	nan	0.138	0.035	nan	nan	nan	nan	nan	nan	0.047
+CMY-4	nan	nan	0	nan	nan	0	nan	nan	nan	0.001	0.291	nan	nan	nan	nan	nan	nan	0.084
+aadA	nan	nan	0	0	nan	0	nan	nan	nan	0.427	0.039	nan	nan	nan	nan	nan	nan	0.834
+dfrA12	nan	nan	0	0	nan	0	nan	nan	nan	0.543	0.013	nan	nan	nan	nan	nan	nan	0.602
+armA	nan	nan	0	nan	nan	0	nan	nan	nan	0.001	0.291	nan	nan	nan	nan	nan	nan	0.084
+OXA-181	nan	nan	0	nan	nan	0	nan	nan	nan	0.001	0.291	nan	nan	nan	nan	nan	nan	0.084
+Shigella flexneri chloramphenicol acetyltransferase	nan	nan	0	nan	nan	0	nan	nan	nan	0.033	0.081	nan	nan	nan	nan	nan	nan	0.082
+tet(59)	nan	nan	0	nan	nan	0	nan	nan	nan	0.033	0.081	nan	nan	nan	nan	nan	nan	0.082
+mphD	nan	nan	0	nan	nan	0	nan	nan	nan	0.001	0.291	nan	nan	nan	nan	nan	nan	0.084
+msrE	nan	nan	0	nan	nan	0	nan	nan	nan	0.001	0.291	nan	nan	nan	nan	nan	nan	0.084
+dfrA7	nan	nan	0	nan	nan	0	nan	nan	nan	0.115	0.004	nan	nan	nan	nan	nan	nan	0.243
+dfrA14	nan	nan	0	nan	nan	0	nan	nan	nan	0.758	0.058	nan	nan	nan	nan	nan	nan	0.883
+mdsB	nan	nan	0	nan	nan	0	nan	nan	nan	0.758	0.058	nan	nan	nan	nan	nan	nan	0.883
+MexJ	nan	nan	0	nan	nan	nan	nan	nan	nan	0.254	0.003	nan	nan	nan	nan	nan	nan	0.312
+mphG	nan	nan	0	0	nan	0	nan	nan	nan	0.316	0.188	nan	nan	nan	nan	nan	nan	0.302
+tet(E)	nan	nan	0.943	nan	nan	0	nan	nan	nan	0.908	0.032	nan	nan	nan	nan	nan	nan	0.867
+CTX-M-14	nan	nan	0.946	nan	nan	0	nan	nan	nan	0.908	0.032	nan	nan	nan	nan	nan	nan	0.867
+TEM-30	nan	nan	0.988	nan	nan	0	nan	nan	nan	0.557	0.557	nan	nan	nan	nan	nan	nan	0.291
+APH(3')-Ia	nan	nan	0.997	nan	nan	0	nan	nan	nan	0.609	0.609	nan	nan	nan	nan	nan	nan	0.513
+dfrA5	nan	nan	0.936	0	nan	0	nan	nan	nan	0.511	0.511	nan	nan	nan	nan	nan	nan	0.235
+opcM	nan	nan	0.955	nan	nan	nan	nan	nan	nan	0.952	0.012	nan	nan	nan	nan	nan	nan	0.678
+vanSN	nan	nan	0.955	nan	nan	nan	nan	nan	nan	0.952	0.012	nan	nan	nan	nan	nan	nan	0.678
+AAC(6')-Ib8	nan	nan	0.955	nan	nan	nan	nan	nan	nan	0.952	0.012	nan	nan	nan	nan	nan	nan	0.678
+AAC(3)-IIc	nan	nan	0	0	nan	nan	nan	nan	nan	0.147	0.011	nan	nan	nan	nan	nan	nan	0.214
+MexK	nan	nan	0.905	nan	nan	nan	nan	nan	nan	0.011	0.018	nan	nan	nan	nan	nan	nan	0.05
+OXA-74	nan	nan	0.995	0	nan	0	nan	nan	nan	0.012	0.012	nan	nan	nan	nan	nan	nan	0.078
+MexF	nan	nan	0	nan	nan	nan	nan	nan	nan	0.352	0.682	nan	nan	nan	nan	nan	nan	0.083
+Brucella suis mprF	nan	nan	0	nan	nan	nan	nan	nan	nan	0.052	0.008	nan	nan	nan	nan	nan	nan	0.098
+aadA13	nan	nan	0	0	nan	0	nan	nan	nan	0.775	0.581	nan	nan	nan	nan	nan	nan	0.714
+SHV-1	nan	nan	0	nan	nan	nan	nan	nan	nan	0.854	0.716	nan	nan	nan	nan	nan	nan	0.878
+carA	nan	nan	0.982	nan	nan	0	nan	nan	nan	0.203	0.203	nan	nan	nan	nan	nan	nan	0.897
+CARB-22	nan	nan	0.927	nan	nan	0	nan	nan	nan	0.305	0.001	nan	nan	nan	nan	nan	nan	0.41
+bcr-1	nan	nan	0	nan	nan	0	nan	nan	nan	0.78	0.027	nan	nan	nan	nan	nan	nan	0.674
+CARB-18	nan	nan	0	0	nan	nan	nan	nan	nan	0.619	0.025	nan	nan	nan	nan	nan	nan	0.927
+Pseudomonas aeruginosa soxR	nan	nan	0	nan	nan	nan	nan	nan	nan	0.605	0.265	nan	nan	nan	nan	nan	nan	0.377
+CARB-17	nan	nan	0.915	nan	nan	nan	nan	nan	nan	0.882	0.882	nan	nan	nan	nan	nan	nan	0.617
+Bacillus Cluster A intrinsic mph	nan	nan	0	0	nan	nan	nan	nan	nan	0.803	0.147	nan	nan	nan	nan	nan	nan	0.864
+OprN	nan	nan	0.922	nan	nan	nan	nan	nan	nan	0.346	0.001	nan	nan	nan	nan	nan	nan	0.449
+arnA	nan	nan	0	nan	nan	nan	nan	nan	nan	0.494	0.318	nan	nan	nan	nan	nan	nan	0.746
+mef(B)	nan	nan	0	nan	nan	nan	nan	nan	nan	0.433	0.046	nan	nan	nan	nan	nan	nan	0.445
+tetM	nan	nan	0	nan	nan	nan	nan	nan	nan	0.494	0.318	nan	nan	nan	nan	nan	nan	0.746
+OpmH	nan	nan	0	nan	nan	nan	nan	nan	nan	0.737	0.557	nan	nan	nan	nan	nan	nan	0.491
+PDC-91	nan	nan	0.979	nan	nan	nan	nan	nan	nan	0.999	0.999	nan	nan	nan	nan	nan	nan	0.77
+MexD	nan	nan	0	nan	nan	nan	nan	nan	nan	0.864	0	nan	nan	nan	nan	nan	nan	0.11
+dfrE	nan	nan	0	nan	nan	nan	nan	nan	nan	0.864	0	nan	nan	nan	nan	nan	nan	0.11
+MuxB	nan	nan	0.951	nan	nan	0	nan	nan	nan	0.053	0.053	nan	nan	nan	nan	nan	nan	0.58
+TEM-87	nan	nan	0.955	nan	nan	nan	nan	nan	nan	0.752	0.752	nan	nan	nan	nan	nan	nan	0.569
+TEM-191	nan	nan	0	0	nan	nan	nan	nan	nan	0.172	0.082	nan	nan	nan	nan	nan	nan	0.988
+CTX-M-115	nan	nan	0	0	nan	nan	nan	nan	nan	0.866	0.354	nan	nan	nan	nan	nan	nan	0.43
+Morganella morganii gyrB conferring resistance to fluoroquinolone	nan	nan	0	0	nan	nan	nan	nan	nan	0.067	0.117	nan	nan	nan	nan	nan	nan	0.071
+basS	nan	nan	0.934	nan	nan	nan	nan	nan	nan	0.002	0.002	nan	nan	nan	nan	nan	nan	0.039
+dfrA8	nan	nan	0	0	nan	nan	nan	nan	nan	0.162	0.262	nan	nan	nan	nan	nan	nan	0.299
+ANT(4')-IIb	nan	nan	0	0	nan	nan	nan	nan	nan	0.162	0.262	nan	nan	nan	nan	nan	nan	0.299
+TriC	nan	nan	0.965	0	nan	nan	nan	nan	nan	0.631	0.631	nan	nan	nan	nan	nan	nan	0.309
+CMY-14	nan	nan	0.954	nan	nan	nan	nan	nan	nan	0.417	0.417	nan	nan	nan	nan	nan	nan	0.659
+ANT(2'')-Ia	nan	nan	0	nan	nan	0	nan	nan	nan	0.834	0.129	nan	nan	nan	nan	nan	nan	0.261
+oleB	nan	nan	0	nan	nan	0	nan	nan	nan	0.834	0.129	nan	nan	nan	nan	nan	nan	0.261
+Salmonella enterica cmlA	nan	nan	0	nan	nan	0	nan	nan	nan	0.278	0.6	nan	nan	nan	nan	nan	nan	0.285
+mexX	nan	nan	0.91	nan	nan	nan	nan	nan	nan	0.496	0.496	nan	nan	nan	nan	nan	nan	0.937
+OpmD	nan	nan	0	0	nan	nan	nan	nan	nan	0.113	0.208	nan	nan	nan	nan	nan	nan	0.723
+PmpM	nan	nan	0	0	nan	nan	nan	nan	nan	0.113	0.208	nan	nan	nan	nan	nan	nan	0.723
+MdtK	nan	nan	0.996	nan	nan	nan	nan	nan	nan	0.457	0.457	nan	nan	nan	nan	nan	nan	0.542
+acrD	nan	nan	0	0	nan	0	nan	nan	nan	0.401	0	nan	nan	nan	nan	nan	nan	0.215
+CMY-45	nan	nan	0	nan	nan	nan	nan	nan	nan	0.359	0.839	nan	nan	nan	nan	nan	nan	0.073
+LEN-10	nan	nan	0	nan	nan	nan	nan	nan	nan	0.359	0.839	nan	nan	nan	nan	nan	nan	0.073
+qacH	nan	nan	0	nan	nan	nan	nan	nan	nan	0.89	0.228	nan	nan	nan	nan	nan	nan	0.106
+CTX-M-55	nan	nan	0	nan	nan	nan	nan	nan	nan	0.359	0.839	nan	nan	nan	nan	nan	nan	0.073
+sul3	nan	nan	0	nan	nan	nan	nan	nan	nan	0.89	0.228	nan	nan	nan	nan	nan	nan	0.106
+ACT-30	nan	nan	0	nan	nan	nan	nan	nan	nan	0.607	0.023	nan	nan	nan	nan	nan	nan	0.449
+tet(W/N/W)	nan	nan	0	nan	nan	nan	nan	nan	nan	0.168	0.027	nan	nan	nan	nan	nan	nan	0.567
+linG	nan	nan	0	nan	nan	nan	nan	nan	nan	0.168	0.027	nan	nan	nan	nan	nan	nan	0.567
+aadA23	nan	nan	0	nan	nan	nan	nan	nan	nan	0.168	0.027	nan	nan	nan	nan	nan	nan	0.567
+aadA24	nan	nan	0	nan	nan	nan	nan	nan	nan	0.168	0.027	nan	nan	nan	nan	nan	nan	0.567
+CARB-21	nan	nan	0.891	0	nan	0	nan	nan	nan	0.947	0.947	nan	nan	nan	nan	nan	nan	0.792
+OXA-368	nan	nan	0.969	nan	nan	nan	nan	nan	nan	0.525	0.525	nan	nan	nan	nan	nan	nan	0.943
+cmeA	nan	nan	0	nan	nan	nan	nan	nan	nan	0.001	0.394	nan	nan	nan	nan	nan	nan	0.008
+QnrS9	nan	nan	0	nan	nan	nan	nan	nan	nan	0.001	0.394	nan	nan	nan	nan	nan	nan	0.008
+rmtB	nan	nan	0	nan	nan	nan	nan	nan	nan	0.001	0.394	nan	nan	nan	nan	nan	nan	0.008
+NDM-5	nan	nan	0	nan	nan	nan	nan	nan	nan	0.001	0.394	nan	nan	nan	nan	nan	nan	0.008
+CMY-42	nan	nan	0	nan	nan	nan	nan	nan	nan	0.001	0.394	nan	nan	nan	nan	nan	nan	0.008
+BRP(MBL)	nan	nan	0	nan	nan	nan	nan	nan	nan	0.001	0.394	nan	nan	nan	nan	nan	nan	0.008
+AAC(3)-Ia	nan	nan	0	nan	nan	nan	nan	nan	nan	0.239	0.139	nan	nan	nan	nan	nan	nan	0.321
+QnrB20	nan	nan	0.997	nan	nan	nan	nan	nan	nan	0.814	0.814	nan	nan	nan	nan	nan	nan	0.832
+IND-6	nan	nan	0.997	nan	nan	nan	nan	nan	nan	0.814	0.814	nan	nan	nan	nan	nan	nan	0.832
+RlmA(II)	nan	nan	0.997	nan	nan	nan	nan	nan	nan	0.814	0.814	nan	nan	nan	nan	nan	nan	0.832
+adeJ	nan	nan	0.948	nan	nan	nan	nan	nan	nan	0.203	0.203	nan	nan	nan	nan	nan	nan	0.897
+AxyY	nan	nan	0	0	nan	nan	nan	nan	nan	0.084	0.147	nan	nan	nan	nan	nan	nan	0.137
+CARB-23	nan	nan	0.913	nan	nan	0	nan	nan	nan	0.667	0.029	nan	nan	nan	nan	nan	nan	0.986

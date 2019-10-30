@@ -1,0 +1,8 @@
+Meta-model ID / Model ID	Meta-model name / Model name	Category	Confers resistance to
+1042	Pseudomonas aeruginosa catB7	Perfect	azidamfenicol, chloramphenicol, thiamphenicol
+1928	OXA-50	Strict	ampicillin, cefalotin
+954	APH(3')-IIb	Strict	ribostamycin, butirosin, kanamycin A, gentamicin B, paromomycin
+2037	tetT	Strict	tetracycline, doxycycline, minocycline, chlortetracycline, demeclocycline, oxytetracycline
+1222	FosA	Perfect	fosfomycin
+2303	bcr-1	Strict	bicyclomycin
+2655	Pseudomonas aeruginosa emrE	Perfect	gentamicin C

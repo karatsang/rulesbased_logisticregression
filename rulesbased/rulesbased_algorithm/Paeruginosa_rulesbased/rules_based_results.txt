@@ -1,0 +1,10 @@
+CORRECT R PREDICTION
+Counter({'ampicillin': 99, 'tetracycline': 96, 'trimethoprim-sulfamethoxazole': 92, 'ceftriaxone': 92, 'amoxicillin-clavulanic_acid': 92, 'cefalotin': 90, 'ceftazidime': 27, 'ciprofloxacin': 26, 'meropenem': 20, 'gentamicin_C': 10, 'cefoxitin': 1})
+CORRECT S PREDICTION
+Counter({'tobramycin': 95, 'amikacin': 95, 'piperacillin-tazobactam': 76, 'meropenem': 6, 'ceftazidime': 4, 'cefoxitin': 3, 'ciprofloxacin': 3, 'cefixime': 2, 'cefazolin': 1, 'trimethoprim-sulfamethoxazole': 1, 'ceftriaxone': 1, 'amoxicillin-clavulanic_acid': 1})
+>>>>>>>>
+OVER PREDICTION
+Counter({'gentamicin_C': 92, 'meropenem': 72, 'ciprofloxacin': 71, 'ceftazidime': 70, 'amikacin': 5, 'tobramycin': 4, 'ampicillin': 3, 'ceftriaxone': 2, 'amoxicillin-clavulanic_acid': 2, 'cefalotin': 2, 'trimethoprim-sulfamethoxazole': 1})
+>>>>>>>>
+UNDER PREDICTION
+Counter({'nitrofurantoin': 102, 'cefazolin': 101, 'cefixime': 100, 'cefoxitin': 98, 'piperacillin-tazobactam': 25, 'trimethoprim-sulfamethoxazole': 7, 'ceftriaxone': 7, 'amoxicillin-clavulanic_acid': 7, 'tetracycline': 6, 'tobramycin': 3, 'amikacin': 2, 'meropenem': 2, 'ciprofloxacin': 2, 'ceftazidime': 1})

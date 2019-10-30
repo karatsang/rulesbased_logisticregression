@@ -1,0 +1,20 @@
+Meta-model ID / Model ID	Meta-model name / Model name	Category	Confers resistance to
+900	tet(C)	Strict	tetracycline
+1031	APH(6)-Id	Strict	streptomycin
+355	TEM-1	Perfect	amoxicillin, ampicillin, cefalotin
+952	sul2	Strict	sulfadiazine, sulfadimidine, sulfadoxine, sulfamethoxazole, sulfisoxazole, sulfacetamide, mafenide, sulfasalazine, sulfamethizole
+2158	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	Strict	pulvomycin
+1191	mdtM	Perfect	acriflavin, lincomycin, puromycin, chloramphenicol, norfloxacin
+2051	dfrA15	Strict	trimethoprim
+1830	APH(3'')-Ib	Strict	streptomycin
+1070	sul1	Strict	sulfadiazine, sulfadimidine, sulfadoxine, sulfamethoxazole, sulfisoxazole, sulfacetamide, mafenide, sulfasalazine, sulfamethizole
+375	mdtH	Strict	enoxacin, norfloxacin
+650	aadA	Perfect	spectinomycin, streptomycin
+2267	Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	Strict	nitrofurantoin
+2424	YojI	Strict	microcin J25
+2423	msbA	Perfect	metronidazole
+2372	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	Strict	fosfomycin
+2744	Escherichia coli AcrAB-TolC with MarR mutations conferring resistance to ciprofloxacin and tetracycline	Partial	ciprofloxacin, tetracycline, ampicillin, cefalotin
+37	Escherichia coli mdfA	Strict	tetracycline, benzalkonium chloride, rhodamine
+603	mdtG	Perfect	fosfomycin
+1820	bacA	Strict	bacitracin A, bacitracin B, bacitracin F

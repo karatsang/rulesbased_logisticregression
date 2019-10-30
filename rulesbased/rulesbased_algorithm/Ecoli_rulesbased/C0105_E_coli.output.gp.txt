@@ -1,0 +1,28 @@
+Meta-model ID / Model ID	Meta-model name / Model name	Category	Confers resistance to
+1227	aadA2	Strict	spectinomycin, streptomycin
+900	tet(C)	Strict	tetracycline
+396	sul3	Perfect	sulfadiazine, sulfadimidine, sulfadoxine, sulfamethoxazole, sulfisoxazole, sulfacetamide, mafenide, sulfasalazine, sulfamethizole
+291	APH(3')-Ia	Strict	ribostamycin, kanamycin A, paromomycin, lividomycin A, lividomycin B
+925	AAC(3)-IIb	Strict	amikacin, gentamicin C, gentamicin B
+69	aadA23	Strict	spectinomycin, streptomycin
+355	TEM-1	Perfect	amoxicillin, ampicillin, cefalotin
+952	sul2	Perfect	sulfadiazine, sulfadimidine, sulfadoxine, sulfamethoxazole, sulfisoxazole, sulfacetamide, mafenide, sulfasalazine, sulfamethizole
+2158	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	Strict	pulvomycin
+2882	tet(W/N/W)	Strict	tetracycline, minocycline, chlortetracycline
+328	Salmonella enterica cmlA	Strict	chloramphenicol
+1191	mdtM	Strict	acriflavin, lincomycin, puromycin, chloramphenicol, norfloxacin
+522	floR	Strict	chloramphenicol, florfenicol
+1682	aadA24	Strict	spectinomycin, streptomycin
+375	mdtH	Perfect	enoxacin, norfloxacin
+2087	aadA13	Strict	spectinomycin, streptomycin
+650	aadA	Strict	spectinomycin, streptomycin
+1450	Escherichia coli parC conferring resistance to fluoroquinolone	Strict	enoxacin, ciprofloxacin, levofloxacin, moxifloxacin, gatifloxacin, lomefloxacin, nalidixic acid, norfloxacin, ofloxacin, trovafloxacin, grepafloxacin, sparfloxacin, pefloxacin
+2267	Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	Strict	nitrofurantoin
+2403	Salmonella enterica gyrA conferring resistance to fluoroquinolones	Strict	ciprofloxacin, nalidixic acid
+2424	YojI	Strict	microcin J25
+2423	msbA	Perfect	metronidazole
+2372	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	Strict	fosfomycin
+2744	Escherichia coli AcrAB-TolC with MarR mutations conferring resistance to ciprofloxacin and tetracycline	Partial	ciprofloxacin, tetracycline, ampicillin, cefalotin
+37	Escherichia coli mdfA	Strict	tetracycline, benzalkonium chloride, rhodamine
+603	mdtG	Perfect	fosfomycin
+1820	bacA	Perfect	bacitracin A, bacitracin B, bacitracin F

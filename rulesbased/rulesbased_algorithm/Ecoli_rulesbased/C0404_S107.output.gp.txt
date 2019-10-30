@@ -1,0 +1,12 @@
+Meta-model ID / Model ID	Meta-model name / Model name	Category	Confers resistance to
+2158	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	Strict	pulvomycin
+1191	mdtM	Perfect	acriflavin, lincomycin, puromycin, chloramphenicol, norfloxacin
+2843	Escherichia coli ampC beta-lactamase	Perfect	penicillin
+375	mdtH	Perfect	enoxacin, norfloxacin
+2267	Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	Strict	nitrofurantoin
+2424	YojI	Perfect	microcin J25
+2423	msbA	Perfect	metronidazole
+2656	Escherichia coli emrE	Strict	erythromycin
+37	Escherichia coli mdfA	Strict	tetracycline, benzalkonium chloride, rhodamine
+603	mdtG	Perfect	fosfomycin
+1820	bacA	Perfect	bacitracin A, bacitracin B, bacitracin F
