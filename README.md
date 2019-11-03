@@ -44,7 +44,7 @@ The rules-based method uses RGI and EPI results and traverses CARD's Antibiotic 
 
 ## Conda environments
 
-[Conda](https://docs.conda.io/en/latest/) environments were used to run all analyses. 
+[Conda](https://docs.conda.io/en/latest/) environments were used to run all analyses and they can be found [here](https://github.com/karatsang/rulesbased_logisticregression/tree/master/condaenv). 
 
 `rgi4.yaml`: to run RGI v4.1.0 analyses, but RGI v4.1.0 mut be downloaded from https://card.mcmaster.ca/download and installed as this version is not available on Conda.
 
