@@ -19,7 +19,7 @@ Raw FASTQs of clinical isolates can be found in [NCBI BioProject PRJNA532924](ht
 Visual overviews of the prevalence of resistance genes and uniqueness of resistomes can be viewed as [heatmaps](https://github.com/karatsang/rulesbased_logisticregression/tree/master/ResistanceGeneIdentifier/Heatmaps_RGI_5.1.0). Heatmaps feature AMR genes categorized by gene family and only unique resistome profiles are displayed with their frequency (histogram at top). Yellow represents a Perfect RGI hit, teal represents a Strict RGI hit, and purple represents no RGI hit. Genes with asterisks (*) appear multiple times because they belong to more than one Drug Class category in the Antibiotic Resistance Ontology (ARO).
 
 ### Efflux Pump Identifier (EPI)
-[Efflux Pump Identifier v1.0.0](https://github.com/karatsang/rulesbased_logisticregression/tree/master/rulesbased/EffluxPumpIdentifier) was used to identify overexpressed, multi-component efflux pumps in the clinical isolates. 
+[Efflux Pump Identifier v1.0.0](https://github.com/karatsang/rulesbased_logisticregression/tree/master/rulesbased/EffluxPumpIdentifier) was used to identify overexpressed, multi-component efflux pumps in the clinical isolates. A flowchart of how the Efflux Pump Identifier classifies efflux pumps into Perfect, Partial, and Putative is illustrated [here](https://github.com/karatsang/rulesbased_logisticregression/blob/master/rulesbased/EffluxPumpIdentifier/FlowChart_EffluxPumpIdentifier.png). 
 
 `python effluxpumpidentifier.py` should be run in a folder of RGI results in .json format. A folder called "EffluxPumpIdentifierResults" will be created with resulting outputs in .json format. 
 
@@ -32,9 +32,9 @@ The rules-based method uses RGI and EPI results and traverses CARD's Antibiotic 
 
 `python 1_predict_phen.py phenotype.json` should be run in a folder with RGI and EPI results in tab-delimited format and a file called "phenotype.json" which has all of the 'confers_resistance_to_drug' relationships from CARD. This will create a *.gp.txt file for every isolate that describes the RGI and EPI results in relation to which antibiotic they confer resistance towards.
 
-`python 2_predict_phen.py ast.tsv` should be run in a folder with all *.gp.txt files created from the previous script (1_predict_phen.py) and an (antibiotic susceptibility testing result file)[https://github.com/karatsang/rulesbased_logisticregression/tree/master/AST]. This will create a file called "phenotype_comparison.txt" that will have a description of AST result and predicted phenotype for every clinical isolate and every tested antibiotic. 
+`python 2_predict_phen.py ast.tsv` should be run in a folder with all *.gp.txt files created from the previous script (1_predict_phen.py) and an [antibiotic susceptibility testing result file](https://github.com/karatsang/rulesbased_logisticregression/tree/master/AST). This will create a file called "phenotype_comparison.txt" that will have a description of AST result and predicted phenotype for every clinical isolate and every tested antibiotic. 
 
-`python 3_phen_summary.py phenotype_comparison.txt` should be run in the same folder as the phenotype_comparison.txt file that was created in the previous step. This will print the true positive, true negative, false positive, and false negative predictions for every antibiotic tested onto the (standard out)[https://github.com/karatsang/rulesbased_logisticregression/blob/master/rulesbased/rulesbased_algorithm/Paeruginosa_rulesbased/rules_based_results.txt]. 
+`python 3_phen_summary.py phenotype_comparison.txt` should be run in the same folder as the phenotype_comparison.txt file that was created in the previous step. This will print the true positive, true negative, false positive, and false negative predictions for every antibiotic tested onto the [standard out](https://github.com/karatsang/rulesbased_logisticregression/blob/master/rulesbased/rulesbased_algorithm/Paeruginosa_rulesbased/rules_based_results.txt). 
 
 ### Logistic regression
 
