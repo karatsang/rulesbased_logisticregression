@@ -1,5 +1,7 @@
 # Identifying novel β-lactamase substrate activity through in silico prediction of antimicrobial resistance 
+
 Kara K. Tsang, Finlay Maguire, Haley L. Zubyk, Sommer Chou, Arman Edalatmand, Gerard D. Wright, Robert G. Beiko, Andrew G. McArthur
+
 DOI: https://doi.org/10.1099/mgen.0.000500
 
 Antimicrobial resistance phenotypes of clinical *E. coli* and *P. aeruginosa* isolates were predicted using two different algorithms, 1) rules based and 2) logistic regression.
